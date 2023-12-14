@@ -45,7 +45,9 @@ Working together, we oversee every facet of Assorion Engine to create the most *
 
 Assorion Engine is about creating simple, lightweight, and an innovative engine rather than a bulky, and competing against other engines. Assorion Engine won't be overloaded with features, instead, it will just include the essential functions along with less bloat, bug fixes, and small enhancements. 
 
-Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. To provide as much control and creative freedom as possible, we like to recommend developing the game from the source code.
+Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. To provide as much control and creative freedom as possible, we like to recommend developing the game from the source code; Working with the source code provides a higher amount of ability to implement more complex ideas into mods.
+
+If you have a feature request, then remember to follow our philosophy. Though said features could be repurposed into the "Extended-Feature" branch in the future.
 
 # ⚝ | Assorion Organization Repositories! 
 
@@ -53,8 +55,10 @@ The bulk of Assorion engine-related repositories will be stored under this Githu
 
 You can check out public ones <a href="https://github.com/orgs/Assorion/repositories">**here**</a>.
 
-# kocmoc
+We mainly work on the <a href="https://github.com/assorion/fnf-assorion-engine">**FNF Engine**</a>, but there are others as well.
+- <a href="https://github.com/Assorion/HXCPP_O3">**HXCPP With O3**</a> is designed not for personal use, but for Github workflows to allow compiler optimizations there.
+- <a href="https://github.com/Assorion/wiki">**Our wiki**</a> is a work in progress wiki which will document the process of creating a mod from scratch. More will be written after the release of `1.3.0`.
+
+# Kocmoc
 
 ![GIF](https://github.com/Assorion/.github/blob/main/profile/kocmoc.gif)
-
-### Gonna work on this later.
