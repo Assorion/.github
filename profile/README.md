@@ -55,6 +55,6 @@ You can check out public ones <a href="https://github.com/orgs/Assorion/reposito
 
 # kocmoc
 
-![kocmoc](https://github.com/Assorion/.github/assets/105545224/8dda7235-3aa2-448d-81c5-37f9f95b7e15)
+![KocMoc](kocmoc.gif)
 
 ### Gonna work on this later.
