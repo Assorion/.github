@@ -55,6 +55,6 @@ You can check out public ones <a href="https://github.com/orgs/Assorion/reposito
 
 # kocmoc
 
-![KocMoc](profile/kocmoc.gif)
+![GIF](kocmoc.gif)
 
 ### Gonna work on this later.
