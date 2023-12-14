@@ -25,16 +25,36 @@
 </div>
 <div align="center">
  
-┃ [**`• About Assorion Engine`**](#) ┃ [**`• Repositories`**](#) ┃ [**`• Extra Notes`**](#) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki`**</a> ┃ 
+┃ [**`• Who Are We?`**](#--who-are-we) ┃ [**`• Goals / Philosphy`**](#--goals--philosophy) ┃ [**`• Repositories`**](#--assorion-organization-repositories) ┃ [**`• kocmoc`**](#kocmoc) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki`**</a> ┃ 
 </div>
 
 -------------------------------------------------------------
 
-# ⚝ | Assorion Engine Repositories! 
+# ❓ | Who Are We?
 
-**Assorion Engine** is one of the most **optimized Friday Night Funkin Engines** compared to other engines! 
-It also has a bright future with several great plans for Assorion Engine in the near future! 
-So go ahead and check out all other **Assorion Engine Repositories**! 
+Assorion Engine operates as a two-person team! Additionally, both make commits using the same Github account so Determining who's who is tough.
+Here are the aliases:
 
-> [!NOTE]
-> **Report any issues if encountered!** 
+>- <a href="https://www.youtube.com/@Byzol">**Barzil / Byzol**</a>: An Assistant, works on everything around Assorion Engine, including workflow management, templates and concepts, personalization and artistic ideas, and Github accounts organization.
+>  
+>- <a href="https://www.youtube.com/@rapidoffriends777">**Rapid / Antivirus**</a>: The Programmer. concentrates primarily on the Assorion Engine's source code, creating the engine's architectural framework and optimaztion ideas.
+
+Working together, we oversee every facet of Assorion Engine to create the most **lightweight** and **user-friendly** FNF engine available.
+
+# 🎓 | Goals / Philosophy
+
+Assorion Engine is about creating simple, lightweight, and an innovative engine rather than a bulky, and competing against other engines. Assorion Engine won't be overloaded with features, instead, it will just include the essential functions along with less bloat, bug fixes, and small enhancements. 
+
+Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. To provide as much control and creative freedom as possible, we like to recommend developing the game from the source code.
+
+# ⚝ | Assorion Organization Repositories! 
+
+The bulk of Assorion engine-related repositories will be stored under this Github Organization.
+
+You can check out public ones <a href="https://github.com/orgs/Assorion/repositories">**here**</a>.
+
+# kocmoc
+
+![kocmoc](https://github.com/Assorion/.github/assets/105545224/8dda7235-3aa2-448d-81c5-37f9f95b7e15)
+
+### Gonna work on this later.
