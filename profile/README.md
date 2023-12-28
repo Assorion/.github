@@ -45,7 +45,7 @@ Working together, we oversee every facet of Assorion Engine to create the most *
 
 Assorion Engine is about creating simple, lightweight, and an innovative engine rather than a bulky, and competing against other engines. Assorion Engine won't be overloaded with features, instead, it will just include the essential functions along with less bloat, bug fixes, and small enhancements. 
 
-Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. To provide as much control and creative freedom as possible, we like to recommend developing the game from the source code; Working with the source code provides a higher amount of ability to implement more complex ideas into mods.
+Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. This will provide as much control and creative freedom as possible, we like to recommend developing the game from the source code; Working with the source code provides a higher amount of ability to implement more complex ideas into mods.
 
 If you have a feature request, then remember to follow our philosophy. Though said features could be repurposed into the "Extended-Feature" branch in the future.
 
