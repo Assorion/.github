@@ -25,7 +25,7 @@
 </div>
 <div align="center">
  
-┃ [**`• Who Are We?`**](#--who-are-we) ┃ [**`• Goals / Philosphy`**](#--goals--philosophy) ┃ [**`• Repositories`**](#--assorion-organization-repositories) ┃ [**`• kocmoc`**](#kocmoc) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki`**</a> ┃ 
+┃ [**`• Who Are We?`**](#--who-are-we) ┃ [**`• Goals / Philosphy`**](#--goals--philosophy) ┃ [**`• Repositories`**](#--assorion-organization-repositories) ┃ [**`• Kocmoc`**](#kocmoc) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki`**</a> ┃ 
 </div>
 
 -------------------------------------------------------------
