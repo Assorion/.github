@@ -65,4 +65,6 @@ We mainly work on the <a href="https://github.com/assorion/fnf-assorion-engine">
 
 # Kocmoc
 
-![GIF](https://github.com/Assorion/.github/blob/main/profile/kocmoc.gif)
+![GIF](https://github.com/Assorion/.github/blob/main/profile/kocmoc.gif)\
+
+https://github.com/Assorion/.github/assets/105545224/ba23eb6a-4f73-4bf3-a24b-2379b2c7fb6d
