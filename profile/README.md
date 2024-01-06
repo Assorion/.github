@@ -49,9 +49,9 @@ Our goal is to develop an engine that will let individuals add more features and
 
 If you have a feature request, then remember to follow our philosophy. Though said features could be repurposed into the "Extended-Feature" branch in the future.
 
-# 🗂️ | Open Source!
+## 🗂️ | Open Source!
 
-Assorion stands on the basis of open source software and will always keep all Assorion related software open source, Everyone that chooses Assorion for their projects should make it open source in guidance with the `GNU License 3.0`
+#### Assorion is built on the ideals of open source and free software, all Assorion-related software will always remain open source and free. Everyone that chooses Assorion for their projects should make it open source in guidance with the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">`GPL-3.0 license`.</a>
 
 # ⚝ | Assorion Organization Repositories! 
 
