@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/Assorion/.github/assets/105545224/f5bb7e95-799e-412c-831c-4df660800e82)<div align="center">
 
 # Welcome To The Assorion Organization Profile!
 
@@ -48,6 +48,10 @@ Assorion Engine is about creating simple, lightweight, and an innovative engine 
 Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. This will provide as much control and creative freedom as possible, we like to recommend developing the game from the source code; Working with the source code provides a higher amount of ability to implement more complex ideas into mods.
 
 If you have a feature request, then remember to follow our philosophy. Though said features could be repurposed into the "Extended-Feature" branch in the future.
+
+# 🗂️ | Open Source!
+
+Assorion stands on the basis of open source software and will always keep all Assorion related software open source, Everyone that chooses Assorion for their projects should make it open source in guidance with the `GNU License 3.0`
 
 # ⚝ | Assorion Organization Repositories! 
 
