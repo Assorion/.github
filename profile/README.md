@@ -1,4 +1,4 @@
-![image](https://github.com/Assorion/.github/assets/105545224/f5bb7e95-799e-412c-831c-4df660800e82)<div align="center">
+<div align="center">
 
 # Welcome To The Assorion Organization Profile!
 
