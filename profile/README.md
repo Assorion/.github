@@ -43,7 +43,7 @@ Working together, we oversee every facet of Assorion Engine to create the most *
 
 # 🎓 | Goals / Philosophy
 
-Assorion Engine is about creating simple, lightweight, and an innovative engine rather than a bulky, and competing against other engines. Assorion Engine won't be overloaded with features, instead, it will just include the essential functions along with less bloat, bug fixes, and small enhancements. 
+Assorion Engine is about creating a simple, lightweight, and innovative engine rather than a bulky, feature-rich engine. Assorion Engine won't be overloaded with features, instead, it will just include the essential functions along with less bloat, bug fixes, and small enhancements. 
 
 Our goal is to develop an engine that will let individuals add more features and gimmicks without worrying about the engine battling you. This will provide as much control and creative freedom as possible, we like to recommend developing the game from the source code; Working with the source code provides a higher amount of ability to implement more complex ideas into mods.
 
