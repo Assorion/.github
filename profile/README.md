@@ -3,7 +3,7 @@
 # Welcome To The Assorion Organization Profile!
 
 </div>
-<img src="https://github.com/Legendary-Candice-Joe/FNF-Assorion-Engine/blob/main/art/assorion.png">
+<img src="https://github.com/Assorion/FNF-Assorion-Engine/blob/main/.github/assorion.png">
 <div align="center"><h2>
 
  *The Most Re-Written Friday Night Funkin Engine!* </h2></div>
