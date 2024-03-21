@@ -25,7 +25,7 @@
 </div>
 <div align="center">
  
-┃ [**`• Who Are We?`**](#--who-are-we) ┃ [**`• Goals / Philosphy`**](#--goals--philosophy) ┃ [**`• Repositories`**](#--assorion-organization-repositories) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki`**</a> ┃ <a href="https://discord.gg/nbhWWxKxTe">**`• Discord`**</a> ┃
+┃ [**`• Who Are We?`**](#--who-are-we) ┃ [**`• Goals / Philosphy`**](#--goals--philosophy) ┃ [**`• Repositories`**](#--assorion-organization-repositories) ┃ <a href="https://assorion.github.io/wiki/">**`• Wiki (WIP)`**</a> ┃ <a href="https://discord.gg/nbhWWxKxTe">**`• Discord`**</a> ┃
 </div>
 
 -------------------------------------------------------------
