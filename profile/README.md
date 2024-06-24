@@ -6,7 +6,7 @@
 <img src="https://github.com/Assorion/FNF-Assorion-Engine/blob/main/.github/assorion.png">
 <div align="center"><h2>
 
- *The Most Re-Written Friday Night Funkin Engine!* </h2></div>
+ *The Most Minimal & Re-Written Friday Night Funkin Engine!* </h2></div>
 
 <div align="center">
  <a href="https://github.com/Legendary-Candice-Joe/Assorion/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/Legendary-Candice-Joe/FNF-Assorion-Engine?style=for-the-badge&color=06b59c"/></a>
